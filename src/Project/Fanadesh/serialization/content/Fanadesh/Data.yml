@@ -1,0 +1,18 @@
+﻿---
+ID: "c0b90b57-420f-4e65-ae4a-68b169896095"
+Parent: "7f112ac2-cdd3-42b3-8749-9c27104e7e28"
+Template: "15dace62-3689-4e49-b808-049f58205f16"
+Path: /sitecore/content/Fanadesh/Data
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220609T101712Z

@@ -1,0 +1,14 @@
+﻿---
+ID: "3b1525b0-19de-4c75-9b4c-1461c1334a4d"
+Parent: "c0b90b57-420f-4e65-ae4a-68b169896095"
+Template: "7ae5859f-9fe2-40ae-8cea-268a8bf3cfe1"
+Path: /sitecore/content/Fanadesh/Data/Admissions
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220609T101726Z

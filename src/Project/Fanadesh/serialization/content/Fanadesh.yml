@@ -1,0 +1,21 @@
+﻿---
+ID: "7f112ac2-cdd3-42b3-8749-9c27104e7e28"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "89f46fea-dd97-49dc-bdca-712c4c0c8941"
+Path: /sitecore/content/Fanadesh
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {89ACDDA4-DA5C-4C8E-B2F2-F6C261A6CFBC}
+    {15DACE62-3689-4E49-B808-049F58205F16}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220609T092204Z

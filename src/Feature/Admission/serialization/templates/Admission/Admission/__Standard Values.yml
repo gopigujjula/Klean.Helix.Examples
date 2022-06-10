@@ -1,0 +1,18 @@
+﻿---
+ID: "be7e724c-890a-4dd1-84f9-b1750e088002"
+Parent: "d21c83db-8961-4bfe-9c2d-5c9b4a7c0463"
+Template: "d21c83db-8961-4bfe-9c2d-5c9b4a7c0463"
+Path: /sitecore/templates/Feature/Admission/Admission/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220609T100737Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gopi_krishna

@@ -1,0 +1,33 @@
+﻿---
+ID: "a310593a-d937-416f-b3b5-1f60dfd5c2f1"
+Parent: "3b1525b0-19de-4c75-9b4c-1461c1334a4d"
+Template: "d21c83db-8961-4bfe-9c2d-5c9b4a7c0463"
+Path: /sitecore/content/Fanadesh/Data/Admissions/Admission 2022
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220609T101735Z
+    - ID: "91db7dd7-80f0-4ccb-99eb-fbc9605ced8b"
+      Hint: Admission_Image
+      Value: |
+        <image mediaid="{8E6E10F4-37A3-4548-91EF-CEB36BC9C44B}" />
+    - ID: "93f56b8f-ebf4-44f4-94a9-97df27ee1b5d"
+      Hint: Admission_Description
+      Value: |
+        <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+                        ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+                      </p>
+    - ID: "94a1f390-2070-4ca7-b1c2-4d5178070dac"
+      Hint: Admission_Text
+      Value: Admission open
+    - ID: "ae9be5ad-d03e-4fb2-b5ef-29ad9f8b36f6"
+      Hint: Admission_Link
+      Value: |
+        <link text="Read More" linktype="external" url="http://dpsfamily.org/" anchor="" title="Read More" target="_blank" />

@@ -1,0 +1,35 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@model RenderingModel
+
+@if (Model != null && Model.Item != null)
+{
+    <!-- admission section -->
+    <section class="admission_section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="admission_detail-box">
+                        @*@if (!string.IsNullOrEmpty(Model.Item.Fields["Admission_Text"]?.Value)
+                            || Sitecore.Context.PageMode.IsExperienceEditor)
+                        {*@
+                            <h3>
+                                @Html.Sitecore().Field("Admission_Text", Model.Item)
+                            </h3>
+                        @*}*@
+                        @Html.Sitecore().Field("Admission_Description", Model.Item)
+                        <div class="">
+                            @Html.Sitecore().Field("Admission_Link", Model.Item, new { @class = "call_to-btn btn_white-border" })
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="admission_img-container">
+                        @Html.Sitecore().Field("Admission_Image", Model.Item)
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- end admission section -->
+}

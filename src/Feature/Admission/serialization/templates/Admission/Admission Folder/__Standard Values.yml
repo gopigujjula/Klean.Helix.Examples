@@ -1,0 +1,25 @@
+﻿---
+ID: "1477dfaf-0f9c-4ae2-a707-2786a2a08ade"
+Parent: "7ae5859f-9fe2-40ae-8cea-268a8bf3cfe1"
+Template: "7ae5859f-9fe2-40ae-8cea-268a8bf3cfe1"
+Path: /sitecore/templates/Feature/Admission/Admission Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {D21C83DB-8961-4BFE-9C2D-5C9B4A7C0463}
+    {7AE5859F-9FE2-40AE-8CEA-268A8BF3CFE1}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220609T101208Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gopi_krishna

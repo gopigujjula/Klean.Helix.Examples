@@ -1,0 +1,23 @@
+﻿---
+ID: "667e47e7-8258-4995-a0b3-e969f6904e48"
+Parent: "89f46fea-dd97-49dc-bdca-712c4c0c8941"
+Template: "89f46fea-dd97-49dc-bdca-712c4c0c8941"
+Path: /sitecore/templates/Project/Fanadesh/Setting Templates/Site Node/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{89ACDDA4-DA5C-4C8E-B2F2-F6C261A6CFBC}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220609T092110Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gopi_krishna

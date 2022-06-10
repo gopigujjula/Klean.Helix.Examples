@@ -1,0 +1,33 @@
+﻿---
+ID: "ba1b534a-2441-4f8a-98f9-e949782413a1"
+Parent: "89acdda4-da5c-4c8e-b2f2-f6c261a6cfbc"
+Template: "89acdda4-da5c-4c8e-b2f2-f6c261a6cfbc"
+Path: /sitecore/templates/Project/Fanadesh/Page Templates/Home/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{1C33C220-3707-45F0-9878-2942DC758BDC}">
+        <r
+          id="{D93CDFBA-18CC-4ACA-8096-F98B75680113}"
+          ph="main"
+          uid="{0A049239-1F1C-405B-9602-C2D776364323}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220609T091926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gopi_krishna
